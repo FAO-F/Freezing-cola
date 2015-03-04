@@ -1,0 +1,101 @@
+Sytle file
+
+
+Body{
+	background-color: #DBDBDB;
+}
+
+A{
+	background-color: #000000;
+	color:            #000000;
+	text-decoration: none;
+}
+
+HR{
+	color: black;
+	background-color: black;
+	border: 3px;
+}
+#top{
+	background-color: 00022;
+	color: #FFFFFF;
+	
+}
+#main-frame{
+	
+
+	background-color: #ADADAD;
+	color: 000000;
+	width: 100%;
+
+}
+#main-frame p{ margin-left: 10px; }
+#main-frame h2{ margin-left: 10px; }
+#main-frame h3{ margin-left: 10px; }
+#main{
+
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 50%;
+	
+
+}
+
+#count-inline{
+	padding: 5px 15px 10px 15px;
+	-webkit-border-radius: 10px; /* Safari prototype */
+	-moz-border-radius: 10px; /* Gecko browsers */
+
+}
+
+
+.Side{
+
+    width: 298px;
+    margin: 10px;
+    clear: none;
+   	overflow: visible;
+   	position: absolute;
+   	color: #0101010;
+    background-color: #c3d0d4;
+}
+
+.Side h2
+    {
+    background: #c3d0d4;
+    color: #f4fbfd;
+    padding: 10px 15px 5px 15px;
+}
+
+.Side p
+    {
+    background: #c3d0d4;
+    margin: 0px;
+    padding: 5px 15px 10px 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+#login-section{
+	
+}
+#cata{ 
+	
+}
+#cata_in_View{ 
+	 max-width: 100%;
+}
+.cata-background {
+	background-color: #c0c0c0; 
+	padding: 0; color: #000000;
+}
+.cata_in_View-background {
+	background-color: #c0c0c0; 
+	padding: 0; color: #000000;
+}
+.cata-background:hover {
+	 background: gold; 
+}
+
